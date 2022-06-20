@@ -295,6 +295,7 @@ PRODUCT_PACKAGES += \
     DialerOverlayX00TD \
     FrameworksOverlayX00TD \
     LineageSDKOverlayX00TD \
+    SettingsOverlayX00TD \
     SettingsProviderOverlayX00TD \
     SystemUIOverlayX00TD \
     TelephonyOverlayX00TD \
